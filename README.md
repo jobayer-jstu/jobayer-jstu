@@ -1,5 +1,5 @@
 # 💫 About Me:
-student of CSE <br>looking to collaborate on<br>learning<br>data science, ML<br>python programmer<br>
+Computer Science Student <br>Data Science Learner<br>Flutter Enthusiast<br>python programmer<br>
 
 
 ## 🌐 Socials:
